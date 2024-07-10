@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Create the ract-app
+npx create-react-app my-app --template typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Resolving the npm error enoent ENOENT: no such file or directory, lstat '...\AppData\Roaming\npm'
+If after running the app creation and you are using windows this error happens
+1. go to C:\Users\clara\AppData\Roaming\ on the files explorer
+2. create a new folder called npm
+
 
 ## Available Scripts
 
