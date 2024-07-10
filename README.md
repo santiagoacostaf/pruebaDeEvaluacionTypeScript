@@ -1,3 +1,6 @@
+# Requirements
+Node.js and npm
+
 # Create the ract-app
 npx create-react-app my-app --template typescript
 
